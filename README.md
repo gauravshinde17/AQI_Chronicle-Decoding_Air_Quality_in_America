@@ -35,13 +35,13 @@ To do this, the notebook:
 
 ## 📊 Dataset
 
-- **Source**: U.S. EPA / Kaggle export `pollution_us_2000_2016.csv`  
+- **Dataset Source**: [U.S. Pollution Dataset](https://www.kaggle.com/datasets/sogun3/uspollution) 
 - **Coverage**:  
   - 2000–2016 (17 years)  
   - 47 U.S. states  
   - ~1.7M daily site‑level observations  
 - **Pollutants**: O₃, NO₂, SO₂, CO (means, max values, AQI)
-- **Dataset Source**: [U.S. Pollution Dataset](https://www.kaggle.com/datasets/sogun3/uspollution)
+
 
 ---
 
