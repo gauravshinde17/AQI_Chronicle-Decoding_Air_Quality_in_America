@@ -62,6 +62,27 @@ To do this, the notebook:
 
 ---
 
+## 📌 Key Insights
+
+**🌟 SO₂ Success Story: −80.5% decline** (2000–2016)  
+Coal plant scrubbers and fuel desulfurization worked ✓
+
+**⚠️ O₃ Stubborn Pollutant: −7.7% improvement only**  
+12.5% of sites exceed NAAQS (0.075 ppm design value)
+
+**🗺️ Hot Spots:**  
+- **Meigs County, TN** (AQI 70.2)  
+- **Riverside, CA** (AQI 66.3, chronic O₃ violation)  
+- **Forsyth, NC** (AQI 68.5)  
+
+**🔗 Traffic Signature:** NO₂–CO correlation (0.61) confirms shared vehicle sources
+
+**📅 Seasonal:** O₃ peaks summer (+55% vs winter), NO₂/CO peak winter inversions
+
+**🏆 Compliance:** SO₂ 99% attainment ✓, O₃ 87% attainment ✗
+
+---
+
 ## 🧱 Tech Stack
 
 - Python, Jupyter Notebook  
