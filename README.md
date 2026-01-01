@@ -2,6 +2,11 @@
 
 This project analyzes **U.S. EPA ambient air quality data (2000–2016)** for **O₃, NO₂, SO₂, and CO** across **47 states and ~1.7M measurements**, rebuilding the **Air Quality Index (AQI)** from raw concentrations and assessing **regulatory compliance**.
 
+
+<div align="center">
+  <img src="Pollution3.webp" width="100%" height="auto" alt="Air Quality Visualization">
+</div>
+
 ---
 
 ## 🔗 Project Link
