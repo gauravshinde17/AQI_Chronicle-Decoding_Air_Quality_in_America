@@ -12,7 +12,6 @@ This project analyzes **U.S. EPA ambient air quality data (2000–2016)** for **
 ## 🔗 Project Link
 
 Notebook: [AQI Chronicle: Decoding Air Quality in America](https://www.kaggle.com/code/gauravshinde017/aqi-chronicle-decoding-air-quality-in-america)  
-Report: `AQI_Project_Report.md` (phase‑wise summary of results)
 
 ---
 
