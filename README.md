@@ -8,7 +8,16 @@ This project analyzes **U.S. EPA ambient air quality data (2000–2016)** for **
 </div>
 
 ---
+## 🔑 Key Takeaways
+- Analyzed **1.7M+ air quality records** across **47 U.S. states** (2000–2016)
+- **SO₂ pollution reduced by ~80%**, highlighting strong regulatory impact
+- **Ozone remains the most challenging pollutant**, with limited improvement
+- Strong **seasonal pollution patterns** observed across pollutants
+- Identified **geographic pollution hotspots** affecting public health
+- Traffic-related pollutants (NO₂ & CO) show strong correlation 
 
+
+---
 ## 🔗 Project Link
 
 Notebook: [AQI Chronicle: Decoding Air Quality in America](https://www.kaggle.com/code/gauravshinde017/aqi-chronicle-decoding-air-quality-in-america)  
